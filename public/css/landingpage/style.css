@@ -1,0 +1,26 @@
+<style>
+<style>
+    .nav-blur {
+        background: rgba(255, 255, 255, 0.01);
+        backdrop-filter: blur(10px);
+        -webkit-backdrop-filter: blur(10px);
+        box-shadow: 0 4px 30px rgba(255, 255, 255, 0.1);
+    }
+
+    .nav-gradient {
+        position: relative;
+    }
+
+    .nav-gradient::after {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: -20px;
+        background: linear-gradient(180deg, rgba(255, 255, 255, 0.1) 0%, transparent 100%);
+        pointer-events: none;
+        z-index: -1;
+    }
+</style>
+</style>
