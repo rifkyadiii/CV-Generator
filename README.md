@@ -1,13 +1,13 @@
-#Perangkat Lunak CV Generator
-##Anggota Kelompok:
--Moch Rifky Aulia Adikusumah	   (1227050072)
--Mohamed				   (1227050074)
--Muhammad Agits Fathul Ma'asyi 	    (1227050082)
--Muhammad Ahsani Taqwim		    (1227050083)
--M Alfiyan Nurwahibulloh Rohayana 	    (1227050084)
--Muhammad Azfa Haqqqoni 		    (1227050086)
+# Perangkat Lunak CV Generator
+## Anggota Kelompok:
+- Moch Rifky Aulia Adikusumah	   (1227050072)
+- Mohamed				   (1227050074)
+- Muhammad Agits Fathul Ma'asyi 	    (1227050082)
+- Muhammad Ahsani Taqwim		    (1227050083)
+- M Alfiyan Nurwahibulloh Rohayana 	    (1227050084)
+- Muhammad Azfa Haqqqoni 		    (1227050086)
 
-##Tampilan:
+## Tampilan:
 Register (Full Name, Email Address, Password, Confirm Password)
 ![image](https://github.com/user-attachments/assets/59d8fbba-904e-48ec-bcf4-4152eeb52b4a)
 
